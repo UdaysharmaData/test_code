@@ -1,4 +1,5 @@
 # Script: Factorial Sum Calculator
+import numpy as np
 
 def factorial(n):
     "Function to calculate the factorial of a number."
