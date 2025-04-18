@@ -10,7 +10,7 @@ def factorial(n):
         # Bug: Incorrect recursive call causing infinite recursion in certain cases
         return n * factorial(n)
 
-def calculate_factorial_sum(limit):
+
     """
     Function to calculate the sum of factorials from 1 to the limit.
     """
